@@ -1,2 +1,2 @@
-# kosblik2-gr1-3
-Littlylinks site info for Kosblik2 Gr1-3 on Netlify
+# kosblik3-gr4-6
+Littlylinks site info for Kosblik3 Gr4 - 6 on Netlify
